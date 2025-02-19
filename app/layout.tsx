@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import type React from "react"
 import "./globals.css"
 import { Inter } from "next/font/google"
