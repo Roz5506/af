@@ -44,7 +44,7 @@ export function Hero() {
             <div className="relative z-10">
               <h2 className="text-3xl font-bold mb-2 text-center">Contract Address</h2>
               <div className="bg-white bg-opacity-10 rounded-lg p-4 backdrop-blur-sm">
-                <span className="font-mono text-4xl font-bold text-yellow-300 tracking-wider">344</span>
+                <span className="font-mono text-4xl font-bold text-yellow-300 tracking-wider">SOON</span>
               </div>
             </div>
           </div>
