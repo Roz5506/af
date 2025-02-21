@@ -71,7 +71,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://telegram.org"
+                  href="https://t.me/OffendingEverybdy"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition-colors"
