@@ -83,7 +83,7 @@ export function Header() {
               <span className="sr-only">X (Twitter)</span>
             </a>
             <a
-              href="https://telegram.org"
+              href="https://t.me/OffendingEverybdy"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-blue-500 transition-colors"
